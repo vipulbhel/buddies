@@ -1,0 +1,3 @@
+# buddies
+Social Network
+ init
