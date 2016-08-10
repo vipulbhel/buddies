@@ -1,0 +1,30 @@
+#logindetail
+{
+    position:absolute;
+    top:200px;
+    left:550px;
+    border:2px solid black;
+    height:300px;
+    width:300px;
+    box-shadow: 5px 5px grey;
+}
+#form
+{
+    padding-top:100px;
+    padding-left:50px;
+}
+a
+{
+    position:absolute;
+    top:220px;
+    left:50px;
+    text-decoration:none;
+    
+}
+a:hover
+{
+    text-decoration: none;
+    color:#6666ff;
+    font-size:20px;
+    font-weight:bold;
+}
